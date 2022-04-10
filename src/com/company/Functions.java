@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class Functions {
 
     public static void main(String[] args) {
        suma(20, 30, 50);
