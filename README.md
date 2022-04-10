@@ -1,5 +1,5 @@
 # Introduccion-programacion-open-bootcamp
-Enunciado del ejercicio sobre funciones:
+# Enunciado del ejercicio sobre funciones:
 
 Primera parte:
 
@@ -19,7 +19,7 @@ Crear un objeto miCoche en el main y añadirle una puerta.
 
 Mostrar el número de puertas que tiene el objeto.
 
-Enunciado del ejercicio sobre Estructuras de control:
+# Enunciado del ejercicio sobre Estructuras de control:
 
 En este ejercicio practicarás las estructuras de control, para ello deberás crear:
 
